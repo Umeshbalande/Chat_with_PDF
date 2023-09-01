@@ -1,5 +1,5 @@
 
-# Chat with PDFs : ANY TextBOOK:
+# Chat with PDFs : ANY TextBOOK( E.g: CBSE class 6 science Textbook)
 
 ## Table of Contents
 
