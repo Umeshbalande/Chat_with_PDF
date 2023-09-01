@@ -1,5 +1,6 @@
 
-# Chat with PDFs : ANY TextBOOK( E.g: CBSE class 6 science Textbook)
+# Chat with PDFs : using Langchain and streamlit
+ANY TextBOOK( E.g: CBSE class 6 science Textbook)
 
 ## Table of Contents
 
