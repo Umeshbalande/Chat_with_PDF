@@ -1,4 +1,4 @@
-![chat_multiple_pdf](https://github.com/Umeshbalande/Chat_with_PDF/assets/3708552/71124451-6d70-4bf5-b7dc-ff9019c8e402)
+
 # Chat with PDFs : using Langchain and streamlit
 ANY TextBOOK ( for E.g: CBSE class 6 science Textbook)
 
