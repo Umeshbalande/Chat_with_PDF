@@ -48,6 +48,7 @@ This project allows users to interact with a chatbot that can answer questions b
     ```
     pip install -r requirements.txt
     ```
+  ## Output i.e. Interface in streamlit  
 ![Interface](https://github.com/Umeshbalande/Chat_with_PDF/assets/3708552/5435cca9-73d9-4683-8c05-ae7fbe4b4240)
 
 ## Usage
