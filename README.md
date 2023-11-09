@@ -1,4 +1,4 @@
-
+![chat_multiple_pdf](https://github.com/Umeshbalande/Chat_with_PDF/assets/3708552/71124451-6d70-4bf5-b7dc-ff9019c8e402)
 # Chat with PDFs : using Langchain and streamlit
 ANY TextBOOK ( for E.g: CBSE class 6 science Textbook)
 
@@ -50,6 +50,7 @@ This project allows users to interact with a chatbot that can answer questions b
     ```
   ## Output i.e. Interface in streamlit  
 ![Interface](https://github.com/Umeshbalande/Chat_with_PDF/assets/3708552/5435cca9-73d9-4683-8c05-ae7fbe4b4240)
+![chat_multiple_pdf](https://github.com/Umeshbalande/Chat_with_PDF/assets/3708552/a4d80ed5-3fb8-4831-ab1c-76cdd9a4dfc7)
 
 ## Usage
 
